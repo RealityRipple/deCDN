@@ -4,7 +4,7 @@ deCDN intercepts common JavaScript libraries, stylesheets, and fonts typically h
 The exact list of entries is pulled from [LocalCDN's repository](//codeberg.org/nobody/LocalCDN), so check there for a full list.
 
 #### Supports
- * Pale Moon [33.0 - 33.*]
+ * Pale Moon [34.0 - 34.*]
 
 ## Building
 Simply download the contents of the repository and pack the src folder into a .zip file. Then, rename the file to .xpi and drag into the browser.
