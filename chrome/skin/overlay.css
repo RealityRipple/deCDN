@@ -89,6 +89,7 @@ toolbar[iconsize="small"] #decdn-button.download
 .decdn-toggle
 {
  -moz-appearance: none;
+ appearance: none;
  transition: all 150ms ease-in-out;
  display: inline-block;
  position: relative;
